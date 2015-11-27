@@ -1,0 +1,23 @@
+{
+  "name": "edc-general-mongo-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/edc-general-mongo-storage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/edc-general-mongo-storage/issues"
+  },
+  "homepage": "https://github.com/stierma1/edc-general-mongo-storage#readme",
+  "dependencies": {
+    "basic-distributed-computation": "^1.0.3",
+    "mongodb": "^2.0.49"
+  }
+}
